@@ -1,4 +1,4 @@
-# 👻 GHOST
+# 👻 GHOST Coder
 ### Generative Heuristic Orchestration Shell Terminal
 
 > A free, provider-agnostic Claude Code clone built for Termux.  
